@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340893042049",
+    "firebase_url": "https://studentbustracker-1650a.firebaseio.com",
+    "project_id": "studentbustracker-1650a",
+    "storage_bucket": "studentbustracker-1650a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340893042049:android:0b55ea14dd12a3a8",
+        "android_client_info": {
+          "package_name": "pushnotificationdemo.arun.com.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340893042049-mpup6po83vr9tdpnbmp0hkad055lvqn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGz3VEmta6rtktJ4VXRmL4b9iHyUoxbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
